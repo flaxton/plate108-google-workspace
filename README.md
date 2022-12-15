@@ -4,8 +4,7 @@
 <table width="100%" align="center" border="0">
 <tr>
 <td width="49%">
-  <!-- <img width="300" height="149" src="https://autoiqinc.com/wp-content/uploads/2022/12/google-workspace-logo-512x255-1.png"> -->
-  <img width="300" height="149" src="/plate108-google-workspace/assets/google-workspace-logo-512x255-1.png"> </td> 
+  <img width="300" height="149" src="https://autoiqinc.com/wp-content/uploads/2022/12/google-workspace-logo-512x255-1.png">
 
 <td width="49%">
 <img width="341" height="144" src="https://infotechdesign.net/wp-content/uploads/2022/12/transparent-Plate108_logo-364x144-1.png"> </td>
@@ -13,7 +12,7 @@
 </table>
 </p>
 
-![Book logo](/plate108-google-workspace/assets/google-workspace-logo-512x255-1.png)
+
 ## Table of Contents
 * [Using this Google Workspace guide](#using)
 * [What is Google Workspace?](#what)
