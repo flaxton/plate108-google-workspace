@@ -231,7 +231,7 @@ However, going forward, you should plan to use native Google Workspace file form
 
 Why would you do that? 
 
-Because native Google Workspace documents, spreadsheets, etc. have advanced collaboration features that Microsoft Office lacks, such as automatic saving, multiple users editing at the same time, sharing the documents on Google Workspace, backups, quick opening, and others (such as Chorale members) do not need any special software (like Microsoft Office) to access them.
+Because native Google Workspace documents, spreadsheets, etc. have advanced collaboration features that Microsoft Office lacks, such as automatic saving, multiple users editing at the same time, sharing the documents on Google Workspace, backups, quick opening, and others do not need any special software (like Microsoft Office) to access them.
 
 So, how do you do convert a Microsoft Office file to Google Workspace formats?
 
