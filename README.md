@@ -11,7 +11,7 @@
 </tr>
 </table>
 </p>
-
+![Book logo](/plate108-google-workspace/assets/google-workspace-logo-512x255-1.png)
 ## Table of Contents
 * [Using this Google Workspace guide](#using)
 * [What is Google Workspace?](#what)
